@@ -1,0 +1,15 @@
+C:\Users\darkw\Desktop\C#\Competencia\bin\Debug\net6.0\Competencia.exe
+C:\Users\darkw\Desktop\C#\Competencia\bin\Debug\net6.0\Competencia.deps.json
+C:\Users\darkw\Desktop\C#\Competencia\bin\Debug\net6.0\Competencia.runtimeconfig.json
+C:\Users\darkw\Desktop\C#\Competencia\bin\Debug\net6.0\Competencia.dll
+C:\Users\darkw\Desktop\C#\Competencia\bin\Debug\net6.0\Competencia.pdb
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\Competencia.csproj.AssemblyReference.cache
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\Competencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\Competencia.AssemblyInfoInputs.cache
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\Competencia.AssemblyInfo.cs
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\Competencia.csproj.CoreCompileInputs.cache
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\Competencia.dll
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\refint\Competencia.dll
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\Competencia.pdb
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\Competencia.genruntimeconfig.cache
+C:\Users\darkw\Desktop\C#\Competencia\obj\Debug\net6.0\ref\Competencia.dll

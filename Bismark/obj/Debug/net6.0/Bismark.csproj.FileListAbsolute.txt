@@ -1,0 +1,15 @@
+C:\Users\darkw\Desktop\C#\Bismark\bin\Debug\net6.0\Bismark.exe
+C:\Users\darkw\Desktop\C#\Bismark\bin\Debug\net6.0\Bismark.deps.json
+C:\Users\darkw\Desktop\C#\Bismark\bin\Debug\net6.0\Bismark.runtimeconfig.json
+C:\Users\darkw\Desktop\C#\Bismark\bin\Debug\net6.0\Bismark.dll
+C:\Users\darkw\Desktop\C#\Bismark\bin\Debug\net6.0\Bismark.pdb
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\Bismark.csproj.AssemblyReference.cache
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\Bismark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\Bismark.AssemblyInfoInputs.cache
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\Bismark.AssemblyInfo.cs
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\Bismark.csproj.CoreCompileInputs.cache
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\Bismark.dll
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\refint\Bismark.dll
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\Bismark.pdb
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\Bismark.genruntimeconfig.cache
+C:\Users\darkw\Desktop\C#\Bismark\obj\Debug\net6.0\ref\Bismark.dll

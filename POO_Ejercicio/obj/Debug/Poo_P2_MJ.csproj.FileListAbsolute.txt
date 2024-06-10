@@ -1,0 +1,7 @@
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.exe.config
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.exe
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.pdb
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csprojAssemblyReference.cache
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csproj.CoreCompileInputs.cache
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.exe
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.pdb

@@ -1,0 +1,15 @@
+C:\Users\darkw\Desktop\project\Tarea6\bin\Debug\net7.0\Tarea6.exe
+C:\Users\darkw\Desktop\project\Tarea6\bin\Debug\net7.0\Tarea6.deps.json
+C:\Users\darkw\Desktop\project\Tarea6\bin\Debug\net7.0\Tarea6.runtimeconfig.json
+C:\Users\darkw\Desktop\project\Tarea6\bin\Debug\net7.0\Tarea6.dll
+C:\Users\darkw\Desktop\project\Tarea6\bin\Debug\net7.0\Tarea6.pdb
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\Tarea6.csproj.AssemblyReference.cache
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\Tarea6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\Tarea6.AssemblyInfoInputs.cache
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\Tarea6.AssemblyInfo.cs
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\Tarea6.csproj.CoreCompileInputs.cache
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\Tarea6.dll
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\refint\Tarea6.dll
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\Tarea6.pdb
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\Tarea6.genruntimeconfig.cache
+C:\Users\darkw\Desktop\project\Tarea6\obj\Debug\net7.0\ref\Tarea6.dll

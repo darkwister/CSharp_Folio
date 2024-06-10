@@ -1,0 +1,15 @@
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\Tarea9.csproj.AssemblyReference.cache
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\Tarea9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\Tarea9.AssemblyInfoInputs.cache
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\Tarea9.AssemblyInfo.cs
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\Tarea9.csproj.CoreCompileInputs.cache
+C:\Users\darkw\Desktop\project\Tarea9\bin\Debug\net7.0\Tarea9.exe
+C:\Users\darkw\Desktop\project\Tarea9\bin\Debug\net7.0\Tarea9.deps.json
+C:\Users\darkw\Desktop\project\Tarea9\bin\Debug\net7.0\Tarea9.runtimeconfig.json
+C:\Users\darkw\Desktop\project\Tarea9\bin\Debug\net7.0\Tarea9.dll
+C:\Users\darkw\Desktop\project\Tarea9\bin\Debug\net7.0\Tarea9.pdb
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\Tarea9.dll
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\refint\Tarea9.dll
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\Tarea9.pdb
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\Tarea9.genruntimeconfig.cache
+C:\Users\darkw\Desktop\project\Tarea9\obj\Debug\net7.0\ref\Tarea9.dll

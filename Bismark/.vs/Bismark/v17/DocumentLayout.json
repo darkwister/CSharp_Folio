@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EEEBF4-32EA-4C41-8B9F-7084C3C3B135}|Bismark.csproj|c:\\users\\darkw\\desktop\\c#\\bismark\\patronstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EEEBF4-32EA-4C41-8B9F-7084C3C3B135}|Bismark.csproj|solutionrelative:patronstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EEEBF4-32EA-4C41-8B9F-7084C3C3B135}|Bismark.csproj|c:\\users\\darkw\\desktop\\c#\\bismark\\patronfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EEEBF4-32EA-4C41-8B9F-7084C3C3B135}|Bismark.csproj|solutionrelative:patronfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EEEBF4-32EA-4C41-8B9F-7084C3C3B135}|Bismark.csproj|c:\\users\\darkw\\desktop\\c#\\bismark\\patronabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EEEBF4-32EA-4C41-8B9F-7084C3C3B135}|Bismark.csproj|solutionrelative:patronabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EEEBF4-32EA-4C41-8B9F-7084C3C3B135}|Bismark.csproj|c:\\users\\darkw\\desktop\\c#\\bismark\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EEEBF4-32EA-4C41-8B9F-7084C3C3B135}|Bismark.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatronStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\PatronStrategy.cs",
+              "RelativeDocumentMoniker": "PatronStrategy.cs",
+              "ToolTip": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\PatronStrategy.cs",
+              "RelativeToolTip": "PatronStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:58:08.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\Libro.cs",
+              "RelativeDocumentMoniker": "Libro.cs",
+              "ToolTip": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\Libro.cs",
+              "RelativeToolTip": "Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:57:08.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatronAbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\PatronAbstractFactory.cs",
+              "RelativeDocumentMoniker": "PatronAbstractFactory.cs",
+              "ToolTip": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\PatronAbstractFactory.cs*",
+              "RelativeToolTip": "PatronAbstractFactory.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:54:17.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatronFactory.cs",
+              "DocumentMoniker": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\PatronFactory.cs",
+              "RelativeDocumentMoniker": "PatronFactory.cs",
+              "ToolTip": "C:\\Users\\darkw\\Desktop\\C#\\Bismark\\PatronFactory.cs",
+              "RelativeToolTip": "PatronFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:54:11.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

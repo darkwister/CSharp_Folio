@@ -1,0 +1,15 @@
+C:\Users\darkw\Desktop\project\Ciclos\bin\Debug\net7.0\Ciclos.exe
+C:\Users\darkw\Desktop\project\Ciclos\bin\Debug\net7.0\Ciclos.deps.json
+C:\Users\darkw\Desktop\project\Ciclos\bin\Debug\net7.0\Ciclos.runtimeconfig.json
+C:\Users\darkw\Desktop\project\Ciclos\bin\Debug\net7.0\Ciclos.dll
+C:\Users\darkw\Desktop\project\Ciclos\bin\Debug\net7.0\Ciclos.pdb
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\Ciclos.csproj.AssemblyReference.cache
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\Ciclos.AssemblyInfoInputs.cache
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\Ciclos.AssemblyInfo.cs
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\Ciclos.dll
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\refint\Ciclos.dll
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\Ciclos.pdb
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\Ciclos.genruntimeconfig.cache
+C:\Users\darkw\Desktop\project\Ciclos\obj\Debug\net7.0\ref\Ciclos.dll
