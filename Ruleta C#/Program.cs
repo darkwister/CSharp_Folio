@@ -40,11 +40,11 @@
                 ██─▄─▀██─███─▄█▀██─█▄▀─███▄▀▄███─▄█▀██─█▄▀─███─███─██─█─██─█
                 ▀▄▄▄▄▀▀▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▄▄▀▀▀▄▀▀▀▄▄▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▀▄▄▄▄▀▀▄▄▄▄▀
                 ");
-                Console.WriteLine("                              ===== MENU DE INICIO =====");
-                Console.WriteLine("                              1. Mostrar Estudiantes");
-                Console.WriteLine("                              2. Excluir Estudiantes");
-                Console.WriteLine("                              3. Salir");
-                Console.Write("                              Ingrese una opción: ");
+                Console.WriteLine("\n\n\t\t\t\t===== MENU DE INICIO =====");
+                Console.WriteLine("\n\n\t\t\t\t1. Mostrar Estudiantes");
+                Console.WriteLine("\n\n\t\t\t\t2. Excluir Estudiantes");
+                Console.WriteLine("\n\n\t\t\t\t3. Salir");
+                Console.Write("\n\n\t\t\t\tIngrese una opción: ");
                 string opc = Console.ReadLine()!;
                 // El switch con el llamado de las funciones respectivas.
                 switch (opc)
@@ -133,7 +133,7 @@ static void MostrarEstudiantes(List<string> ausentes)
 
         // Mostrar los resultados 
         Console.WriteLine("===================NUESTROS DUELISTAS DE HOY====================");
-        Console.WriteLine($"Estudiante 1:{estudiante1} es el {rolEstudiante1}");
+        Console.WriteLine($"Estudiante 1: {estudiante1} es el {rolEstudiante1}");
         Console.WriteLine($"Estudiante 2: {estudiante2} es el {rolEstudiante2}");
         Console.WriteLine();
         Console.WriteLine("Si concluye antes del tiempo establecido, pulse F para continuar");
@@ -161,29 +161,29 @@ static void MostrarEstudiantes(List<string> ausentes)
                         Console.WriteLine("¡Increíble! ¡Lo lograste antes de que el tiempo terminara!");
                         Console.WriteLine("==========================================================================");
                         Console.WriteLine(@"
-                        ██████╗ ██╗   ██╗███████╗███╗   ██╗    ████████╗██████╗  █████╗ ██████╗  █████╗      ██╗ ██████╗ 
-                        ██╔══██╗██║   ██║██╔════╝████╗  ██║    ╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗     ██║██╔═══██╗
-                        ██████╔╝██║   ██║█████╗  ██╔██╗ ██║       ██║   ██████╔╝███████║██████╔╝███████║     ██║██║   ██║
-                        ██╔══██╗██║   ██║██╔══╝  ██║╚██╗██║       ██║   ██╔══██╗██╔══██║██╔══██╗██╔══██║██   ██║██║   ██║
-                        ██████╔╝╚██████╔╝███████╗██║ ╚████║       ██║   ██║  ██║██║  ██║██████╔╝██║  ██║╚█████╔╝╚██████╔╝
-                        ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚════╝  ╚═════╝ 
+██████╗ ██╗   ██╗███████╗███╗   ██╗    ████████╗██████╗  █████╗ ██████╗  █████╗      ██╗ ██████╗ 
+██╔══██╗██║   ██║██╔════╝████╗  ██║    ╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗     ██║██╔═══██╗
+██████╔╝██║   ██║█████╗  ██╔██╗ ██║       ██║   ██████╔╝███████║██████╔╝███████║     ██║██║   ██║
+██╔══██╗██║   ██║██╔══╝  ██║╚██╗██║       ██║   ██╔══██╗██╔══██║██╔══██╗██╔══██║██   ██║██║   ██║
+██████╔╝╚██████╔╝███████╗██║ ╚████║       ██║   ██║  ██║██║  ██║██████╔╝██║  ██║╚█████╔╝╚██████╔╝
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚════╝  ╚═════╝ 
                         ");
                         MusicaVictoria();
                     }
                 }
                 Thread.Sleep(100);
             }
-            //Por el contrario si el tiempo se agota, se muestra un mensaje de fin de tiempo y se reproduce el beep de derrota
+            //Por el contrario si el tiempo se agota, se muestra un mensaje de fin de tiempo y se reproduce el beep de fin de tiempo
             if (!tiempoAgotado)
             {
                 Console.WriteLine("==========================================================================");
                 Console.WriteLine(@"
-                ███████╗██╗███╗   ██╗    ██████╗ ███████╗██╗         ████████╗██╗███████╗███╗   ███╗██████╗  ██████╗ 
-                ██╔════╝██║████╗  ██║    ██╔══██╗██╔════╝██║         ╚══██╔══╝██║██╔════╝████╗ ████║██╔══██╗██╔═══██╗
-                █████╗  ██║██╔██╗ ██║    ██║  ██║█████╗  ██║            ██║   ██║█████╗  ██╔████╔██║██████╔╝██║   ██║
-                ██╔══╝  ██║██║╚██╗██║    ██║  ██║██╔══╝  ██║            ██║   ██║██╔══╝  ██║╚██╔╝██║██╔═══╝ ██║   ██║
-                ██║     ██║██║ ╚████║    ██████╔╝███████╗███████╗       ██║   ██║███████╗██║ ╚═╝ ██║██║     ╚██████╔╝
-                ╚═╝     ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚══════╝╚══════╝       ╚═╝   ╚═╝╚══════╝╚═╝     ╚═╝╚═╝      ╚═════╝ 
+███████╗██╗███╗   ██╗    ██████╗ ███████╗██╗         ████████╗██╗███████╗███╗   ███╗██████╗  ██████╗ 
+██╔════╝██║████╗  ██║    ██╔══██╗██╔════╝██║         ╚══██╔══╝██║██╔════╝████╗ ████║██╔══██╗██╔═══██╗
+█████╗  ██║██╔██╗ ██║    ██║  ██║█████╗  ██║            ██║   ██║█████╗  ██╔████╔██║██████╔╝██║   ██║
+██╔══╝  ██║██║╚██╗██║    ██║  ██║██╔══╝  ██║            ██║   ██║██╔══╝  ██║╚██╔╝██║██╔═══╝ ██║   ██║
+██║     ██║██║ ╚████║    ██████╔╝███████╗███████╗       ██║   ██║███████╗██║ ╚═╝ ██║██║     ╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚══════╝╚══════╝       ╚═╝   ╚═╝╚══════╝╚═╝     ╚═╝╚═╝      ╚═════╝ 
                 ");
                 Console.WriteLine("==========================================================================");
                 MusicaFinTiempo();

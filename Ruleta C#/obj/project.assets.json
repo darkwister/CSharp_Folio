@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darkw\\Desktop\\C#\\Competencia\\Competencia.csproj",
+      "projectUniqueName": "C:\\Users\\darkw\\Desktop\\C#\\Ruleta C#\\Competencia.csproj",
       "projectName": "Competencia",
-      "projectPath": "C:\\Users\\darkw\\Desktop\\C#\\Competencia\\Competencia.csproj",
+      "projectPath": "C:\\Users\\darkw\\Desktop\\C#\\Ruleta C#\\Competencia.csproj",
       "packagesPath": "C:\\Users\\darkw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darkw\\Desktop\\C#\\Competencia\\obj\\",
+      "outputPath": "C:\\Users\\darkw\\Desktop\\C#\\Ruleta C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darkw\\AppData\\Roaming\\NuGet\\NuGet.Config",
