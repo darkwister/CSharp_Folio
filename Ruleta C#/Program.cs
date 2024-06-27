@@ -72,7 +72,7 @@ static void MostrarEstudiantes(List<string> ausentes)
     while (mostrarOtrosEstudiantes)
     {
         Console.Clear();
-        Console.WriteLine("===== Duelo =====");
+        Console.WriteLine("================== Duelo ====================");
 
         // Filtrar estudiantes disponibles excluyendo los ausentes
         List<string> estudiantesDisponibles = listado.Except(ausentes).ToList();
@@ -131,8 +131,8 @@ static void MostrarEstudiantes(List<string> ausentes)
         rolEstudiante1 = "Desafiado";
         rolEstudiante2 = "Retador";
 
-        // Mostrar los resultados 
-        Console.WriteLine("===================NUESTROS DUELISTAS DE HOY====================");
+        // Mostrar los resu=ltados 
+        Console.WriteLine("==================NUESTROS DUELISTAS DE HOY====================");
         Console.WriteLine($"Estudiante 1: {estudiante1} es el {rolEstudiante1}");
         Console.WriteLine($"Estudiante 2: {estudiante2} es el {rolEstudiante2}");
         Console.WriteLine();
@@ -158,7 +158,7 @@ static void MostrarEstudiantes(List<string> ausentes)
                     if (tecla.Key == ConsoleKey.F)
                     {
                         tiempoAgotado = true;
-                        Console.WriteLine("¡Increíble! ¡Lo lograste antes de que el tiempo terminara!");
+                        Console.WriteLine("\n\n¡Increíble! ¡Lo lograste antes de que el tiempo terminara!\n");
                         Console.WriteLine("==========================================================================");
                         Console.WriteLine(@"
 ██████╗ ██╗   ██╗███████╗███╗   ██╗    ████████╗██████╗  █████╗ ██████╗  █████╗      ██╗ ██████╗ 
@@ -168,6 +168,7 @@ static void MostrarEstudiantes(List<string> ausentes)
 ██████╔╝╚██████╔╝███████╗██║ ╚████║       ██║   ██║  ██║██║  ██║██████╔╝██║  ██║╚█████╔╝╚██████╔╝
 ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚════╝  ╚═════╝ 
                         ");
+                        Console.WriteLine("==========================================================================");
                         MusicaVictoria();
                     }
                 }
