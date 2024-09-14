@@ -1,4 +1,6 @@
-﻿//PROGRAMA QUE LEA UN NUMERO ENTERO DE TRES DIGITOS  Y DETERMINE SI EL PRIMERO ES IGUAL AL ULTIMO.
+﻿/*PROGRAMA QUE LEA UNA EDAD Y DEPENDIENDO DE LA EDAD SEA ABUELO, PADRE o HIJO.
+Mayor de 50 es abuelo, mayor de 30 es padre, menos de 30 es hijo.
+*/
 
 using System;
 namespace hell11
