@@ -6,7 +6,7 @@ class Program
     {
         string nombreUsuario;
         int numero;
-        int opcion;
+        byte opcion;
 
         do
         {
@@ -19,7 +19,7 @@ class Program
             Console.WriteLine("5. Obtener mayor dígito de un número");
             Console.WriteLine("0. Salir");
 
-            if (!int.TryParse(Console.ReadLine(), out opcion))
+            if (!byte.TryParse(Console.ReadLine(), out opcion))
             {
                 opcion = -1;
             }
