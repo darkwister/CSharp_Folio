@@ -1,0 +1,39 @@
+Algunos ejercicios de manejo de arreglos y operaciones con ellos grrr.
+Usa un switch para dividir todos los ejercicios en un mismo programa, 
+recomiendo el uso de un ciclo para mantener el
+programa en ejecion hasta que el usuario decida cerrarlo.
+
+Parte 1
+ Numeros negativos de una cantidad de numeros definida:
+    -Usar un arreglo para almacenar los numeros negativos
+    -Manejar una variable dentro del arreglo para contabilizar cuantas coincidencias hay
+    -Mostrar al final TODOS las coincidencias
+ Secuencia descendente desde el mayor de dos numeros solicitados:
+    -Dos variables y usar un ciclo para ir de uno a otro
+ Programa de condiciones
+    -Se hace diferentes acciones dependiendo de la entrada del usuario.
+    -Casos: Numero par, impar y numeros menores que 10.
+    -Acciones: 
+    En caso de par:
+        Imprimir en pantalla desde 100 a 500, incrementar de 10 en 10.
+    En caso de impar:
+        Imprimir hola 5 veces en pantalla
+    En caso de menor que 10:
+        Solicitar el nombre y matricula
+        Luego imprimirlas a pantalla.
+Parte 2
+ Suma de numeros en un arreglo
+    -Meter 5 numeros en un arreglo y luego sumar todos los que se encuentren dentro.
+ Donde esta el numero veintitres?
+    -Buscar en un arreglo de numeros ingresados por el usuario si se encuentra el numero 23.
+    -En caso de que si: Saludar al usuario e informarle de la presencia del numero
+    -En caso de que no: Informar al usuario y despedirse
+ Clasificacion de numeros en pares e impares
+    -Con un arreglo de 10 numeros ingresados por el usuario, recorrerlo y
+    mostrar la cantidad de numeros pares e impares en el arreglo.
+ Cinco numeros clasicificados.
+    Clasificar los numeros de un arreglo A a un arreglo B
+    -Condiciones:
+        En caso de ser par, multiplicar el numero por 10, ejemplo A = 12 B = 120
+        En caso de no ser par, el numero pasa igual
+    Se muestran ambos arreglos a pantalla.    

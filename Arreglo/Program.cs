@@ -109,7 +109,7 @@ namespace Arreglo
                         }
                     }
                 }
-                static void ProgramaSuma()
+            static void ProgramaSuma()
             {
                 int[] numeros = new int[5];
                 int suma = 0;
@@ -189,27 +189,27 @@ namespace Arreglo
             static void ProgramaNegativos()
             {
                 Console.Write("Ingrese la cantidad de numeros a procesar:");
-                    int cantidadNumeros = int.Parse(Console.ReadLine()!);
-                    int numerosNegativos = 0;
-                    int[] numerosnegativos = new int[numerosNegativos];
+                int cantidadNumeros = int.Parse(Console.ReadLine()!);
+                int numerosNegativos = 0;
+                int[] numerosnegativos = new int[numerosNegativos];
 
-                        for (int i = 0; i < cantidadNumeros; i++)
+                    for (int i = 0; i < cantidadNumeros; i++)
+                    {
+                        Console.Write("Introduce un número: ");
+                        int numero = int.Parse(Console.ReadLine()!);
+
+                        if (numero < 0)
                         {
-                            Console.Write("Introduce un número: ");
-                            int numero = int.Parse(Console.ReadLine()!);
-
-                            if (numero < 0)
-                            {
-                                numerosNegativos++;
-                                numerosnegativos[numerosNegativos - 1] = numero;
-                            }
+                            numerosNegativos++;
+                            numerosnegativos[numerosNegativos - 1] = numero;
                         }
-                        Console.WriteLine($"Has ingresado {numerosNegativos} numeros negativos.");
+                    }
+                    Console.WriteLine($"Has ingresado {numerosNegativos} numeros negativos.");
                         for (int i = 0; i < numerosnegativos.Length; i++)
                         {
                             Console.Write(numerosnegativos[i] + " ");
                         }
-                            Console.WriteLine("Esos son todosl los numeros negativos presentes.");
+                    Console.WriteLine("Esos son todos los numeros negativos presentes.");
             }
             static void ProgramaCopia()
             {
