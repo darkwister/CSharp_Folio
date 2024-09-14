@@ -11,10 +11,10 @@ namespace hell
                 Console.WriteLine("Este numero es positivo!");
             }
             else if(num == 0){
-                Console.WriteLine("Ingresaste cero");
+                Console.WriteLine("Ingresaste cero.");
             }
             else{
-                Console.WriteLine("")
+                Console.WriteLine("Este numero es negativo!");
             }
         }
     }    
