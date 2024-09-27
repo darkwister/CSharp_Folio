@@ -30,6 +30,7 @@ Ej_8: Pide al usuario dos números y muestra la “distancia” entre ellos
 (el valor absoluto de su diferencia, de modo que el resultado sea siempre positivo).
 
 Ej_9: Programa que lea un número y que muestre su raíz cuadrada y su raíz cúbica. 
+
 Ej_10: Dado un número de dos cifras, diseñe un algoritmo que permita obtener el número invertido. 
 Ejemplo, si se introduce 23 que muestre 32.
 

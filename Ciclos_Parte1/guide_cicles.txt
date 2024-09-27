@@ -1,0 +1,2 @@
+Este contiene la realizacion de distintos ejercicios con el uso de todos los ciclos (While, DoWhile, For) en distintos procesos.
+(Comentado el uso de cada uno)

@@ -1,0 +1,3 @@
+Lo mismo que la parte 1 :P 
+
+Se usa mas los ciclos While y DoWhile que en Parte1

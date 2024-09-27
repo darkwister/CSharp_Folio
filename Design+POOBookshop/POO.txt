@@ -1,0 +1,2 @@
+Este fue un ejemplo de el uso de el paradigma de POO en un caso practico con una biblioteca.
+Adicional a eso el uso de 3 patrones de diseño.
