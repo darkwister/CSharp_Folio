@@ -1,1 +1,4 @@
-This a little view to some of my C# work and some little projects that i made.
+# Preview de algunos de mis proyectos hechos en C# y .NET
+- Logica basica de programacion
+- Uso de patrones de diseño
+- Programacion Orientada a Objetos
